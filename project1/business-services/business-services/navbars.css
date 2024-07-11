@@ -1,1 +1,16 @@
-
+.list-group{
+    a{
+    cursor: context-menu;
+    padding:30px;
+   
+  }
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width:100%;
+}
+.dropdown-menu {
+  max-height: 150px;
+  overflow-y: scroll;
+}
